@@ -16,7 +16,6 @@ I decided to create a physics simulation of the Solar System, focusing on the or
 
 * C++
 * SFML
-* CMake
 
 ## How It Works
 
